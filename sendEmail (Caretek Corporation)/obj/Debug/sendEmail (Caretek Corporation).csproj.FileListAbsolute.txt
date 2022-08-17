@@ -1,0 +1,30 @@
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).csproj.AssemblyReference.cache
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail__Caretek_Corporation_.Form1.resources
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail__Caretek_Corporation_.Properties.Resources.resources
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).csproj.GenerateResource.cache
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).csproj.CoreCompileInputs.cache
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\sendEmail (Caretek Corporation).exe.config
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\sendEmail (Caretek Corporation).exe
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\sendEmail (Caretek Corporation).pdb
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).exe
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).pdb
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\BouncyCastle.Crypto.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MailKit.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MimeKit.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Buffers.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Memory.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Numerics.Vectors.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\BouncyCastle.Crypto.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MailKit.pdb
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MailKit.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MimeKit.pdb
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\MimeKit.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Buffers.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Memory.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Numerics.Vectors.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Workplace\C#\sendEmail (Caretek Corporation)\obj\Debug\sendEmail (Caretek Corporation).csproj.CopyComplete
